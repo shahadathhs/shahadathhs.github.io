@@ -25,8 +25,6 @@
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@shahadathhs)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/shahadathhs/)
 
-I write about backend engineering, system design, DevOps, and real-world project learnings.
-
 ---
 
 ## 🛠️ Tech Stack
