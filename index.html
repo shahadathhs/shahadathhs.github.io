@@ -2154,7 +2154,7 @@
             const yearsActive = new Date().getFullYear() - data.joinedYear;
             updateStat('total-contributions', data.repos, 'repos');
             updateStat('followers', formatNumber(data.followers), 'followers');
-            updateStat('years-active', yearsActive + '+', 'years');
+            updateStat('years-active', yearsActive - 1 + '+', 'years');
             updateStat('total-stars', formatNumber(data.totalStars), 'stars');
             renderLanguagesBreakdown(data.languages);
         }
